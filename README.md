@@ -47,6 +47,6 @@ Edit Control을 3개 Button을 1개 위치를 잡아 준 뒤 생성한 Button1�
  
  ![11](https://user-images.githubusercontent.com/54833169/64946425-cbb3a280-d8ad-11e9-92bb-09423c554f10.PNG)
  
-더블 클릭을 하면 사진 처럼 코드를 입력할 수 있는 화면이 나온다. **void C프로젝트명Dlg::OnBnClickedButton1()**이 생성 되었는지를 확인 
+더블 클릭을 하면 사진 처럼 코드를 입력할 수 있는 화면이 나온다. **void C프로젝트명Dlg::OnBnClickedButton1()** 이 생성 되었는지를 확인 
 
 
