@@ -3,6 +3,6 @@
  
  #### visual studio 2019 사용  
 <img src= "https://user-images.githubusercontent.com/54833169/64945719-2a781c80-d8ac-11e9-9510-a1e66ea1a8ad.PNG" width="300">
- #### 새프로젝트 만들기를 선택한다. 
+#### 새 프로젝트 만들기를 선택 
 
 
