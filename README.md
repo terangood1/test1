@@ -104,3 +104,36 @@
  
   #### 1
   위에 작은 탭을 눌러 프로그램을 설정할 수 있는 화면으로 돌아간다.
+  
+  ![2-1](https://user-images.githubusercontent.com/54833169/64958033-2b6b7700-d8c9-11e9-8c33-4cc41a2a1f37.PNG)
+ 
+  #### 2
+  **Edit Control** 하나를 오른쪽 클린한다. 후에 **변수 추가**를 클릭한다.
+  
+  ![3-1](https://user-images.githubusercontent.com/54833169/64958024-2a3a4a00-d8c9-11e9-8f7b-42c1dd377850.PNG)
+  
+  #### 3
+  **범주**를 값으로 바꿔준다. **변수 형식**을 **int**로 바꿔준 다음 **이름**을 입력한다. 다음에 이름에 넣은 값을 쳐야하는 알아보기 편한 이름을 짓는다. 
+  
+ ![4-1](https://user-images.githubusercontent.com/54833169/64958025-2a3a4a00-d8c9-11e9-8cdc-484dd190dce5.PNG)
+ 
+  #### 4
+  코드를 작성 할 수 있는 탭을 눌러 화면을 바꾼 후에 `UpdateData(true);`를 입력해준다. **Edit Control**에 입력한 값을 가져오는 것이다. 
+  
+ ![5-1](https://user-images.githubusercontent.com/54833169/64958026-2ad2e080-d8c9-11e9-8fed-09ca5d168715.PNG)
+ 
+  #### 5
+  아까 **이름**에 적은 이름을 가져와서 더하기를 해준다. `idc_e3 = idc_e1 + idc_e2;`
+  
+  ![6-1](https://user-images.githubusercontent.com/54833169/64958027-2ad2e080-d8c9-11e9-9ae8-b145d6a38d4d.PNG)
+  
+  #### 6
+  `UpdateData(false);`를 적어준다. **Edit Control**에서 가져온 값을 다시 보여주는 기능이다.
+  
+  <div>
+  ![16-1](https://user-images.githubusercontent.com/54833169/64958030-2ad2e080-d8c9-11e9-90b8-ebd3a2720f21.PNG)
+ ![7-1](https://user-images.githubusercontent.com/54833169/64958028-2ad2e080-d8c9-11e9-89cf-16923ee60901.PNG)
+</div>
+  
+   #### 7
+   실행 시켜준 뒤 결과를 확인한다. 
