@@ -28,3 +28,8 @@
 ![6](https://user-images.githubusercontent.com/54833169/64946420-cb1b0c00-d8ad-11e9-8c14-c17629444d6d.PNG)
 
 그 후 나오는 창에서 Dialog를 클릭 한뒤 IDD_프로젝트명_DIALOG를 더블 클릭한다.
+
+<img src="https://user-images.githubusercontent.com/54833169/64946421-cb1b0c00-d8ad-11e9-8c20-ffa0b303c36e.PNG" width="600">
+
+완료 화면 
+
