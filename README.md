@@ -131,8 +131,8 @@
   `UpdateData(false);`를 적어준다. **Edit Control**에서 가져온 값을 다시 보여주는 기능이다.
   
   <div>
-  ![16-1](https://user-images.githubusercontent.com/54833169/64958030-2ad2e080-d8c9-11e9-90b8-ebd3a2720f21.PNG)
- ![7-1](https://user-images.githubusercontent.com/54833169/64958028-2ad2e080-d8c9-11e9-89cf-16923ee60901.PNG)
+  <img src="https://user-images.githubusercontent.com/54833169/64958030-2ad2e080-d8c9-11e9-90b8-ebd3a2720f21.PNG" width="300">
+  <img src="https://user-images.githubusercontent.com/54833169/64958028-2ad2e080-d8c9-11e9-89cf-16923ee60901.PNG" width="300">
 </div>
   
    #### 7
