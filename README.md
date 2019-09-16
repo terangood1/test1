@@ -6,4 +6,5 @@
  
  #### 새 프로젝트 만들기를 선택 
 
+![2](https://user-images.githubusercontent.com/54833169/64946391-bb9bc300-d8ad-11e9-9f32-7650fc80f6e9.PNG)
 
