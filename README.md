@@ -49,4 +49,10 @@ Edit Control을 3개 Button을 1개 위치를 잡아 준 뒤 생성한 Button1�
  
 더블 클릭을 하면 사진 처럼 코드를 입력할 수 있는 화면이 나온다. **void C프로젝트명Dlg::OnBnClickedButton1()** 이 생성 되었는지를 확인 
 
+![12](https://user-images.githubusercontent.com/54833169/64946426-cbb3a280-d8ad-11e9-9c37-2391a558a7f6.PNG)
 
+**int a = GetDlgItemInt(IDC_EDIT1);** 을 입력한다. 
+
+![13](https://user-images.githubusercontent.com/54833169/64946411-c9514880-d8ad-11e9-8c23-d735e999d0e7.PNG)
+
+**IDC_EDIT1** 은 생선한 **Edit Control**을 클릭하면 오른쪽 하단에 **ID탭**에 있는 이름과 같은 것을 써준다.
