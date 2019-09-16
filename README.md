@@ -33,3 +33,20 @@
 
 완료 화면 
 
+![8](https://user-images.githubusercontent.com/54833169/64946422-cb1b0c00-d8ad-11e9-8ca7-6ef4a53833ed.PNG)
+
+화면 왼쪽에 있는 **대화 상자 편집기**에서 **Edit Control**를 클릭 후 끌어서 프로그램 창에 놓는다.
+
+![9](https://user-images.githubusercontent.com/54833169/64946423-cb1b0c00-d8ad-11e9-9f7f-ac0eb503fd33.PNG)
+
+같은 방식으로 **Button**을 끌어서 놓는다. 
+
+![10](https://user-images.githubusercontent.com/54833169/64946424-cbb3a280-d8ad-11e9-8d22-e72daf0298c5.PNG)
+
+Edit Control을 3개 Button을 1개 위치를 잡아 준 뒤 생성한 Button1을 더블클릭 해준다.
+ 
+ ![11](https://user-images.githubusercontent.com/54833169/64946425-cbb3a280-d8ad-11e9-92bb-09423c554f10.PNG)
+ 
+더블 클릭을 하면 사진 처럼 코드를 입력할 수 있는 화면이 나온다. **void C프로젝트명Dlg::OnBnClickedButton1()**이 생성 되었는지를 확인 
+
+
