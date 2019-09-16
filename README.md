@@ -78,12 +78,12 @@
 ![14](https://user-images.githubusercontent.com/54833169/64946412-c9e9df00-d8ad-11e9-9040-74dafafb2aae.PNG)
 
  #### 15
- **int b = GetDlgItemInt(IDC_EDIT2);** 를 입력한 뒤 **int c = a+b;** 를 입력해준다. **Edit Control**에 두 수를 넣으면 버튼을 클릭 했을 때 더  한 값을 출력 하기 위해 더해지는 두 수를 받아 올 수 있게 하는 코드이다. **int c = a+b;** 경우는 두 수를 더한 값을 저장하는 코드이다.
+ `int b = GetDlgItemInt(IDC_EDIT2);` 를 입력한 뒤 `int c = a+b;` 를 입력해준다. **Edit Control**에 두 수를 넣으면 버튼을 클릭 했을 때 더  한 값을 출력 하기 위해 더해지는 두 수를 받아 올 수 있게 하는 코드이다. **int c = a+b;** 경우는 두 수를 더한 값을 저장하는 코드이다.
 
 ![15](https://user-images.githubusercontent.com/54833169/64946413-c9e9df00-d8ad-11e9-992a-f8fcf497543a.PNG)
 
  #### 16
- **SetDlgItemInt(IDC_EDIT3, c);** 입력한다. 더해진 값 **c** 를 프로그램 창에 넣은 **Edit Control** 의 마지막 부분에 출력해주는 코드이다. 
+ `SetDlgItemInt(IDC_EDIT3, c);` 입력한다. 더해진 값 **c** 를 프로그램 창에 넣은 **Edit Control** 의 마지막 부분에 출력해주는 코드이다. 
 
  ![16](https://user-images.githubusercontent.com/54833169/64946414-c9e9df00-d8ad-11e9-880f-47b64c4407e1.PNG)
  
