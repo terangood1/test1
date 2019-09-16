@@ -68,7 +68,7 @@
 ![12](https://user-images.githubusercontent.com/54833169/64946426-cbb3a280-d8ad-11e9-9c37-2391a558a7f6.PNG)
 
  #### 13
- **int a = GetDlgItemInt(IDC_EDIT1);** 을 입력한다. 
+ `int a = GetDlgItemInt(IDC_EDIT1);` 을 입력한다. 
 
 ![13](https://user-images.githubusercontent.com/54833169/64946411-c9514880-d8ad-11e9-8c23-d735e999d0e7.PNG)
 
