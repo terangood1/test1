@@ -152,12 +152,20 @@
    
    큰 틀을 한번 클릭 한뒤 속성 탭에서 왼쪽에서 네번째에 있는 메세지탭을 선택한다. 
    
-   
+   ![3-2](https://user-images.githubusercontent.com/54833169/65035517-5535a400-d984-11e9-8008-558bd227e0ce.PNG)
    
    #### 2
    
-    계속 내리면서 **WM_MOUSEMOVE**를 클릭한 뒤 내림표를 클릭해서 **<Add> OnMouseMove**를 클릭한다. 
+   계속 내리면서 **WM_MOUSEMOVE**를 클릭한 뒤 내림표를 클릭해서 **<Add> OnMouseMove**를 클릭한다. 
     
+  ![4-2](https://user-images.githubusercontent.com/54833169/65035518-5535a400-d984-11e9-857b-5c3c574bdd14.PNG)
+ 
+   #### 3 
    
-    
-    
+   자동으로 화면이 넘어간다. 완료 화면 
+   
+   ![5-2](https://user-images.githubusercontent.com/54833169/65035519-55ce3a80-d984-11e9-84d9-d69546733c34.PNG)
+   
+   #### 4
+ 
+  만들어진 코드위에 'CPOint pnt;'를 적어준다. 
