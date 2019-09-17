@@ -168,4 +168,18 @@
    
    #### 4
  
-  만들어진 코드위에 'CPOint pnt;'를 적어준다. 
+  만들어진 코드위에 `CPOint pnt;`를 적어준다. 
+  
+  ![6-2](https://user-images.githubusercontent.com/54833169/65035520-55ce3a80-d984-11e9-8ac8-1f2c8d432a9c.PNG)
+  
+  #### 5
+  
+   코드 `if(nFlags == MK_LBUTTON){`
+          `CClientDC dc(this);`
+          `dc.MoveTo(pnt);`
+          `dc.LineTo(point)`
+          `}`
+          `pnt = point;`
+           를 작성한다. 
+           이때 실행시키면 실행창에서 펜을 사용 할 수 있다. 
+         
