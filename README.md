@@ -123,7 +123,7 @@
  ![5-1](https://user-images.githubusercontent.com/54833169/64958026-2ad2e080-d8c9-11e9-8fed-09ca5d168715.PNG)
  
   #### 5
-  아까 **이름**에 적은 이름을 가져와서 더하기를 해준다. `idc_e3 = idc_e1 + idc_e2;`
+  아까 **이름**에 적은 이름을 가져와서 더하기를 해준다. `idc_e3 = idc_e1 + idc_e2;` 
   
   ![6-1](https://user-images.githubusercontent.com/54833169/64958027-2ad2e080-d8c9-11e9-9ae8-b145d6a38d4d.PNG)
   
@@ -138,7 +138,26 @@
    #### 7
    실행 시켜준 뒤 결과를 확인한다. 
    
+  
+  #### MFC 펜 사용하기 
+  
+  ##### 8번까지 똑같이 한다. 
+  
+  <div>
+ <img src="https://user-images.githubusercontent.com/54833169/65035515-5535a400-d984-11e9-8819-f0add375aedc.PNG" width="300">
+ <img src="https://user-images.githubusercontent.com/54833169/65035516-5535a400-d984-11e9-9f53-b92607538a89.PNG" width="300">
+ </div>
+  
+  #### 1
    
-    #### MFC 펜 사용하기
+   큰 틀을 한번 클릭 한뒤 속성 탭에서 왼쪽에서 네번째에 있는 메세지탭을 선택한다. 
+   
+   
+   
+   #### 2
+   
+    계속 내리면서 **WM_MOUSEMOVE**를 클릭한 뒤 내림표를 클릭해서 **<Add> OnMouseMove**를 클릭한다. 
+    
+   
     
     
