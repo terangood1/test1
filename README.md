@@ -176,9 +176,12 @@
   
    코드 
    ```c++
-   if(nFlags == MK_LBUTTON){`
-          `CClientDC dc(this);`
-          `dc.MoveTo(pnt);`
-          `dc.LineTo(point)`
-          `}`
-          `pnt = point;```
+   if(nFlags == MK_LBUTTON){
+          CClientDC dc(this);
+          dc.MoveTo(pnt);
+          dc.LineTo(point)
+          }
+          pnt = point;
+          ```
+  
+  를 작성한 후 실행시키면 기본적인 펜을 사용가능하다.
