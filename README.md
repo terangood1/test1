@@ -174,12 +174,15 @@
   
   #### 5
   
-   코드 `if(nFlags == MK_LBUTTON){`
+   코드 
+   ```c++
+   if(nFlags == MK_LBUTTON){`
           `CClientDC dc(this);`
           `dc.MoveTo(pnt);`
           `dc.LineTo(point)`
           `}`
-          `pnt = point;`
+          `pnt = point;```
+           
            를 작성한다. 
            이때 실행시키면 실행창에서 펜을 사용 할 수 있다. 
          
