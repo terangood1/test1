@@ -182,6 +182,25 @@
           dc.LineTo(point)
           }
           pnt = point;
-          ```
-  
-  를 작성한 후 실행시키면 기본적인 펜을 사용가능하다.
+   ```
+   를 작성한 후 실행하면 기본적인 펜을 사용이 가능하다. 
+   
+  ![7-2](https://user-images.githubusercontent.com/54833169/65035522-55ce3a80-d984-11e9-8db2-dd5ad14f848a.PNG)
+ 
+   #### 6
+   
+   펜에 색상과 크기를 정하기위한 코드 `CPen pen(PS_SOLID, 16, RGB(0,255,0));`를 작성한다.
+   16크기에 색상이 초록색이다. R은 빨강 G는 초록색 B는 파란색을 뜻한다. 
+   
+   ![8-2](https://user-images.githubusercontent.com/54833169/65035512-549d0d80-d984-11e9-8fae-7dfabb122ffa.PNG)
+   
+   #### 7
+   
+   작성한 코드는 붙이기 위해 `dc.SelectObject(&pen);`을 적어준다.
+   
+   ![9-2](https://user-images.githubusercontent.com/54833169/65035514-549d0d80-d984-11e9-9503-6b5039ee8882.PNG)
+   
+   #### 8 
+    
+   실행 시킨뒤 마우스 클릭을 통해 글을 써준다. 
+   
